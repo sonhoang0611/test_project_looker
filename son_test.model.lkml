@@ -2,6 +2,7 @@ connection: "demodb"
 
 # include all the views
 include: "*.view"
+include: "*.dashboard"
 
 datagroup: son_test_default_datagroup {
   # sql_trigger: SELECT MAX(id) FROM etl_log;;

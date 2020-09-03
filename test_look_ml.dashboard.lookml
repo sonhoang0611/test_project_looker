@@ -18,23 +18,3 @@
       col: 0
       width: 7
       height: 4
-    - name: Description
-      type: text
-      title_text: Description
-      row: 0
-      col: 0
-      width: 24
-      height: 2
-      filters:
-        - name: Area
-          title: Area
-          type: string_filter
-          default_value: Asia
-          allow_multiple_values: true
-          required: false
-        - name: Code
-          title: Code
-          type: string_filter
-          default_value: "%N%"
-          allow_multiple_values: true
-          required: false
