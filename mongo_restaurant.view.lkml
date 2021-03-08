@@ -13,7 +13,11 @@ view: mongo_restaurant {
   }
 
   dimension: borough {
+<<<<<<< HEAD
     type: number
+=======
+    type: date
+>>>>>>> branch 'master' of git@github.com:sonhoang0611/test_project_looker.git
     sql: ${TABLE}.borough ;;
   }
 
