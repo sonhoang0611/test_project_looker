@@ -13,7 +13,7 @@ view: mongo_restaurant {
   }
 
   dimension: borough {
-    type: string
+    type: date
     sql: ${TABLE}.borough ;;
   }
 
