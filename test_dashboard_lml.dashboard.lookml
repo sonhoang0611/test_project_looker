@@ -8,10 +8,10 @@
   elements:
     - name: add_a_unique_name_1599125758
       title: Untitled Visualization
-      model: son_test2
+      model: son_test223
       explore: persisted_ecommerce_users
       type: table
-      fields: [persisted_ecommerce_users.email, persisted_ecommerce_users.first_name,
+      fields: [persisted_ecommerce_users.email222, persisted_ecommerce_users.first_name,
         persisted_ecommerce_users.full_name, persisted_ecommerce_users.gender]
       sorts: [persisted_ecommerce_users.email]
       limit: 500
