@@ -2,7 +2,7 @@
   title: New Dashboard
   layout: newspaper
   elements:
-    - title: Sonnnnnn
+    - title: Sonnnnnnnnnn
       name: Sonnnnnn
       model: wtf
       explore: countries
