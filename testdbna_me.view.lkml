@@ -1,7 +1,7 @@
 view: testdbna_me {
   sql_table_name: public."test-db-naMe" ;;
 
-  dimension: test {
+  dimension: test2 {
     type: string
     sql: ${TABLE}.test ;;
   }
